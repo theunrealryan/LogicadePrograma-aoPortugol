@@ -1,1 +1,1 @@
-# LogicadePrograma-aoPortugol
+Algoritmos desenvolvidos durante o aprendizado de lógica de programação desde agosto de 2021 através do curso em vídeo até o primeiro período (2023.2) de Engenharia de Software na Universidade do Estado do Pará como introdução na disciplina de Programação Estruturada.
